@@ -3,11 +3,7 @@ import { BrowserRouter as Router, Route, Redirect } from 'react-router-dom';
 
 import { createRenderer } from 'fela';
 import { RendererProvider } from 'react-fela';
-/*
- We encourage our candidates to over-engineer,
- so please feel free to use any other styling methodology
- e.g., Emotion, Fela, SASS, etc.
- */
+
 import RecipesListContainer from './components/container/listing';
 import RecipeDetailsContainer from './components/container/details';
 const renderer = createRenderer();

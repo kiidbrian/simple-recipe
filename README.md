@@ -7,6 +7,8 @@ The project is implemented as a ReactJS application.
 
 The ReactJS application is leverages heavily on **create-react-app** library. The application uses **redux** for state management.
 
+This project leverages on **FELA** styling methodology.
+
 
 ## Running
 
