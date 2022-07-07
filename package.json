@@ -10,7 +10,7 @@
     "@sentry/browser": "^4.6.4",
     "axios": "^0.18.0",
     "eslint-plugin-react": "^7.12.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-fela": "^10.2.1",
